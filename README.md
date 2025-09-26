@@ -1,2 +1,2 @@
-# KSU Repo Workshop
+# Elliotte Wideman Unity beginner build.
 
